@@ -19,4 +19,7 @@ Here are some ideas to get you started:
 <br/>
 <br/>
 <br/>
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kkm06100&show_icons=true&theme=radical)![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kkm06100&layout=compact)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kkm06100&show_icons=true&theme=radical)                   ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kkm06100&layout=compact)
+<img src="https://capsule-render.vercel.app/api?type=waving&color=BDBDC8&height=150&section=header" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=BDBDC8&height=150&section=footer" />
+출처: https://hulrud.tistory.com/3 [주독야독:티스토리]
