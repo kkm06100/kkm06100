@@ -42,9 +42,6 @@ Here are some ideas to get you started:
 
 
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=kkm06100&theme=flat&column=8)](https://github.com/kkm06100/github-profile-trophy)
-
-
 
 
 
