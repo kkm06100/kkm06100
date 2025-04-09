@@ -15,6 +15,8 @@ Here are some ideas to get you started:
 -->
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kkm06100)](https://github.com/anuraghazra/github-readme-stats)
 
+<a href="https://github.com/imysh578"><img align="center" style="height:180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kkm06100&layout=compact&theme=nord&hide_border=true" /></a> 
+
 <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
     <img src="https://github-readme-activity-graph.vercel.app/graph?username=kkm06100&theme=react-dark&bg_color=20232a&hide_border=true&line=58A6FF&color=58A6FF" width=50%/>
 </a>
