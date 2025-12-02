@@ -17,7 +17,7 @@ Here are some ideas to get you started:
   <img src="https://render.gitanimals.org/lines/kkm06100?pet-id=1" width="1000" height="120"/>
 </a>
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kkm06100)](https://github.com/anuraghazra/github-readme-stats)
+[![kkm06100's GitHub stats](https://github-readme-stats.vercel.app/api?username=kkm06100)](https://github.com/anuraghazra/github-readme-stats)
 
 <a href="https://github.com/kkm06100"><img align="center" style="height:180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kkm06100&layout=compact&theme=nord&hide_border=true" /></a> 
 
